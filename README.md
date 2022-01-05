@@ -2,17 +2,12 @@
 
 ## I'm a Network Engenier and Developer!!
 
-- 🌱 I’m currently learning Git and some Code Languages
+- 🌱 I’m currently learning Git and some Code Languages (Powershell, Python, C#)
 
 ## Github Stats
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AemPi&show_icons=true&hide_border=true" />
-
-</details>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AemPi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AemPi/AemPi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
