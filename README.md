@@ -1,13 +1,12 @@
 ### Hi my Name is Markus -- aka AemPi 👋
 
-## I'm a Networkengineer and Developer!!
+## I'm a Networkengineer and Developer!
 
 - 🌱 I’m currently learning Git and some Code Languages (Powershell, Python, C#)
 
 ## Github Stats
-</details>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AemPi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AemPi)](https://github.com/AemPi/github-readme-stats)
 
 <!--
 **AemPi/AemPi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
