@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi my Name is Markus -- aka AemPi 👋
+
+## I'm a Network Engenier and Developer!!
+
+- 🌱 I’m currently learning Git and some Code Languages
+
+## Github Stats
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AemPi&show_icons=true&hide_border=true" />
+
+</details>
 
 <!--
 **AemPi/AemPi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
