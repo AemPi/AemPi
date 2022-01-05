@@ -1,6 +1,6 @@
 ### Hi my Name is Markus -- aka AemPi 👋
 
-## I'm a Network Engenier and Developer!!
+## I'm a Networkengineer and Developer!!
 
 - 🌱 I’m currently learning Git and some Code Languages (Powershell, Python, C#)
 
