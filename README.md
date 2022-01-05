@@ -1,12 +1,21 @@
-### Hi my Name is Markus -- aka AemPi 👋
+# Hi my Name is Markus -- aka AemPi 👋
+
+I made this project just for fun, to learn more about Git and Coding.
 
 ## I'm a Networkengineer and Developer!
 
-- 🌱 I’m currently learning Git and some Code Languages (Powershell, Python, C#)
+- 🌱 I’m currently learning Git and some Code Languages (Python, C#)
+
+## Skills
+
+* 💻 macOS, Windows, Cisco Switching, Cisco Callmanager
+* 🗣️ Powershell, Bash, C#, XML
 
 ## Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AemPi)](https://github.com/AemPi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AemPi)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AemPi&show_icons=true&count_private=true)  
 
 <!--
 **AemPi/AemPi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
