@@ -5,7 +5,7 @@ I'm a Networkengineer and Developer(in Progress 😂)!
 
 ## Skills
 
-* 💻 macOS, Windows, Cisco Switching, Cisco Callmanager
+* 💻 Linux (still Learning),macOS, Windows, Cisco Switching, Cisco Callmanager
 * 🗣️ Powershell, Bash, C#, XML
 * 🌱 I’m currently learning Git and some Code Languages (Python, C#)
 
